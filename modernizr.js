@@ -5050,7 +5050,7 @@ Append multiple elements to the DOM within a single insertion.
 Does the browser support the HTML5 [hidden] attribute?
 */
 
-  Modernizr.addTest('hidden', 'hidden' in createElement('a'));
+ // Modernizr.addTest('hidden', 'hidden' in createElement('a'));
 
 /*!
 {
