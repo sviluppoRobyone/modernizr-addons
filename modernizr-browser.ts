@@ -4,7 +4,7 @@
 declare var Modernizr:IModernizr;
 
 (() => {
-    if (!!window["Modernizr"]) {
+    if ("Modernizr" in window) {
         var ua = navigator.userAgent.toLowerCase();
 
         Modernizr.addTest("ie", () => ua.indexOf("msie") !== -1);

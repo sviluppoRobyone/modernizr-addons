@@ -1,5 +1,5 @@
 (function () {
-    if (!!window["Modernizr"]) {
+    if ("Modernizr" in window) {
         var ua = navigator.userAgent.toLowerCase();
         Modernizr.addTest("ie", function () { return ua.indexOf("msie") !== -1; });
         [6, 7, 8, 9, 10, 11, 12].forEach(function (versionNumber) {
