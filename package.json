@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sviluppoRobyone/modernizr-addons/issues"
   },
-  "homepage": "https://github.com/sviluppoRobyone/modernizr-addons#readme"
+  "homepage": "https://github.com/sviluppoRobyone/modernizr-addons#readme",
+  "dependencies": {
+    "modernizr": "^3.5.0"
+  }
 }
