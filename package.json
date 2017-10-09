@@ -1,0 +1,19 @@
+{
+  "name": "modernizr-addons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modernizr-browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sviluppoRobyone/modernizr-addons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sviluppoRobyone/modernizr-addons/issues"
+  },
+  "homepage": "https://github.com/sviluppoRobyone/modernizr-addons#readme"
+}
